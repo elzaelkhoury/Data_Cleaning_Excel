@@ -40,12 +40,12 @@ Using Excel tools and functions, the data was cleaned and standardized to ensure
 
 ---
 
-## 📎 Files in This Repository
+## Files in This Repository
 - `Cleaned Data.xlsx` — An Excel file with the raw data sheet and final cleaned dataset.
-  The content in this file was created by Mynda Treacy from My Online Training Hub ©.
+- The content in this file was created by Mynda Treacy from My Online Training Hub ©.
 
 ---
 
-## 💡 Key Takeaway
+## Key Takeaway
 Even simple and careful cleaning in Excel can significantly improve data quality. Clean data = reliable analysis. 
 
