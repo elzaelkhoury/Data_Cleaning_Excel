@@ -42,6 +42,7 @@ Using Excel tools and functions, the data was cleaned and standardized to ensure
 
 ## Files in This Repository
 - `Cleaned Data.xlsx` — An Excel file with the raw data sheet and final cleaned dataset.
+- Two snippets of the raw and the cleaned data.
 - The content in this file was created by Mynda Treacy from My Online Training Hub ©.
 
 ---
